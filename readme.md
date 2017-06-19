@@ -3,8 +3,8 @@
 - Programmer
 - Open Data Enthusiast
 - Coach/ Mentor
-- OK Lab Köln
-- @eberius
+- [OK Lab Köln](https://codefor.de/koeln/)
+- [@eberius](https://twitter.com/eberius)
 
 # Projekte
 
