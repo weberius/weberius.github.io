@@ -31,5 +31,6 @@ Das Projekt baumkataster soll es ermöglichen, auf die Daten des Baumkataster Ko
 - Workshop "Feinstaub selbst messen"; [radkomm](http://www.radkomm.koeln/), 17.06.2017
 - Vorstellung "Public Depart"; [geeks@cologne, 24.05.2017](https://geekscologne.wordpress.com/2017/06/09/das-war-open-data/), [youtube](https://www.youtube.com/watch?v=om8lr2ZX6ck)
 - Interview "Potential und die Grenzen von OpenData"; [kölncampus](https://www.koelncampus.com), 23.05.2017
+- Mentor "[Jungend Hackt Hello World](https://jugendhackt.org/hello-world/)", Bielefeld, 05.05.2017 
 - Hackathon "HackYourCity"; Prototyp "Public Depart Cologne"; [HackYourCity Köln](http://www.hackyourcity.de/koeln/) , 04.03./ 05.03.2017
 
