@@ -6,6 +6,7 @@
 - Open Data Enthusiast
 - Coach/ Mentor
 - [OK Lab Köln](https://codefor.de/koeln/)
+- [RefugeesOnRails Cologne](http://cologne.refugeesonrails.org/en/)
 - [@eberius](https://twitter.com/eberius)
 
 # Projekte
