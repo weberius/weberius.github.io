@@ -28,8 +28,7 @@ Das Projekt baumkataster soll es ermöglichen, auf die Daten des Baumkataster Ko
 
 # Talks und Workshops
 
-Juni 2017
-
 - Workshop "Feinstaub selbst messen"; Radkomm, 17.06.2017
-- Vorstellung Public Depart; [geeks@cologne](https://geekscologne.wordpress.com/2017/06/09/das-war-open-data/), [24.05.2017](https://www.youtube.com/watch?v=om8lr2ZX6ck)
+- Vorstellung "Public Depart"; [geeks@cologne](https://geekscologne.wordpress.com/2017/06/09/das-war-open-data/), [24.05.2017](https://www.youtube.com/watch?v=om8lr2ZX6ck)
+- Interview: "Potential und die Grenzen von OpenData"; [kölncampus](https://www.koelncampus.com), 23.05.2017
 
