@@ -7,7 +7,12 @@
 - Coach/ Mentor
 - [OK Lab Köln](https://codefor.de/koeln/)
 - [RefugeesOnRails Cologne](http://cologne.refugeesonrails.org/en/)
+
+# Links
+
 - [@eberius](https://twitter.com/eberius)
+- [github weberius](https://github.com/weberius)
+- [Wolfram Eberius | Flickr](https://www.flickr.com/photos/eberius/)
 
 # Projekte
 
