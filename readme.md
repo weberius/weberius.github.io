@@ -26,9 +26,9 @@ Das Projekt isochrone erlaubt es, isochrone in einer Datenbank zu speichern. Es 
 
 Das Projekt baumkataster soll es ermöglichen, auf die Daten des Baumkataster Koeln zuzugreifen. Die Daten werden von den Offenen Daten Köln zur Verfügung gestellt. Die Daten sollen in eine Datenbank übernommen werden. Auf diese Weise ist es möglich per API auf den Datenbestand zu zugreifen.
 
-# Talks und Workshops
+# Talks, Workshops und Hackathons
 
-- Workshop "Feinstaub selbst messen"; Radkomm, 17.06.2017
+- Workshop "Feinstaub selbst messen"; [radkomm](http://www.radkomm.koeln/), 17.06.2017
 - Vorstellung "Public Depart"; [geeks@cologne, 24.05.2017](https://geekscologne.wordpress.com/2017/06/09/das-war-open-data/), [youtube](https://www.youtube.com/watch?v=om8lr2ZX6ck)
 - Interview "Potential und die Grenzen von OpenData"; [kölncampus](https://www.koelncampus.com), 23.05.2017
 - Hackathon "HackYourCity"; Prototyp "Public Depart Cologne"; [HackYourCity Köln](http://www.hackyourcity.de/koeln/) , 04.03./ 05.03.2017
