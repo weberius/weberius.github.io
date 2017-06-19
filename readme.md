@@ -1,11 +1,12 @@
 # Wolfram Eberius
 
+![Wolfram Eberius](https://avatars2.githubusercontent.com/u/3819073?v=3&s=200 "Wolfram Eberius") | 
+
 - Programmer
 - Open Data Enthusiast
 - Coach/ Mentor
 - [OK Lab Köln](https://codefor.de/koeln/)
 - [RefugeesOnRails Cologne](http://cologne.refugeesonrails.org/en/)
-![Wolfram Eberius](https://avatars2.githubusercontent.com/u/3819073?v=3&s=200 "Wolfram Eberius")
 
 # Links
 
