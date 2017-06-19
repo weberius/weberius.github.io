@@ -10,11 +10,11 @@
 
 # Links
 
-- [@eberius](https://twitter.com/eberius)
-- [github weberius](https://github.com/weberius)
-- [Wolfram Eberius | Flickr](https://www.flickr.com/photos/eberius/)
+- [twitter](https://twitter.com/eberius)
+- [github](https://github.com/weberius)
+- [Flickr](https://www.flickr.com/photos/eberius/)
 
-# Projekte
+# Open Source Projekte
 
 ## wahlbeteiligung (06.2017 - 09.2017)
 
