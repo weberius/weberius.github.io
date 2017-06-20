@@ -42,6 +42,10 @@ Das Projekt [wahlergebnis](https://github.com/weberius/wahlergebnis) bietet die 
 
 Das Projekt [wahlgebiet](https://github.com/codeforcologne/wahlgebiet) bietet die Möglichkeit, Informationen zu geographische Strukturen, wie Stimmbezirke, Wahllokale und Wahlkreise zur Verfügung per REST-Schnittstelle zugänglich zu machen. Grundlage sind offener Daten.
 
+## kvbrad (01.2016 - 08.2016) 
+
+Die Webapplikation [kvbrad](https://github.com/codeforcologne/kvbrad) soll die Benutzung von Wegen in Köln auf Basis der Standorte Fahrradverleih Koeln - KVB-Rad mit dem Fahrrad verdeutlichen. Hierzu werden die Standorte der KVB-Fahrräder periodisch gespeichert und die Wege zwischen zwei gespeicherten Standorten über Graphhopper auf Basis der OSM Daten geroutet. Die Ergebnisse des Routings werden in Teilabschnitte aufgetrennt. Durch Zählen dieser Teilabschnitte läßt sich die Nutzungsintensität von bestimmten Wegen für die Fahrräder bestimmen. 
+
 ## denkmalinkoeln (09.2015 - 12.2015)
 
 Das projekt [denkmalinkoeln](https://github.com/denkmalinkoeln/denkmalinkoeln.github.io) zeigt auf Basis der Denkmalliste Stadt Koeln die Baudenkmäler der Stadt Köln auf der Karte von Köln an. Diese werden durch das Offene Daten Portal der Stadt Köln zur Verfügung gestellt. Die Webapplikation [denkmalinkoeln.github.io](https://denkmalinkoeln.github.io/) bietet einen locationbased Zugang zu diese Informationen.
