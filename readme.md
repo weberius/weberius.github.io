@@ -12,6 +12,8 @@
 
 - [twitter](https://twitter.com/eberius)
 - [github](https://github.com/weberius)
+- [Xing](https://www.xing.com/profile/Wolfram_Eberius)
+- [Facebook](https://www.facebook.com/wolfram.eberius)
 - [Flickr](https://www.flickr.com/photos/eberius/)
 
 # Open Source Projekte
@@ -39,6 +41,14 @@ Das Projekt [wahlergebnis](https://github.com/weberius/wahlergebnis) bietet die 
 ## wahlgebiet (09.2016)
 
 Das Projekt [wahlgebiet](https://github.com/codeforcologne/wahlgebiet) bietet die Möglichkeit, Informationen zu geographische Strukturen, wie Stimmbezirke, Wahllokale und Wahlkreise zur Verfügung per REST-Schnittstelle zugänglich zu machen. Grundlage sind offener Daten.
+
+## denkmalinkoeln (09.2015 - 12.2015)
+
+Das projekt [denkmalinkoeln](https://github.com/denkmalinkoeln/denkmalinkoeln.github.io) zeigt auf Basis der Denkmalliste Stadt Koeln die Baudenkmäler der Stadt Köln auf der Karte von Köln an. Diese werden durch das Offene Daten Portal der Stadt Köln zur Verfügung gestellt. Die Webapplikation [denkmalinkoeln.github.io](https://denkmalinkoeln.github.io/) bietet einen locationbased Zugang zu diese Informationen.
+
+## schuleninkoeln (12.2014 - 01.2015)
+
+Ziel des Projektes [schuleninkoeln](https://github.com/schuleninkoeln/schuleninkoeln.github.io) ist es Schulen und Schüler bezogen auf Stadtteile in Köln anzuzeigen. Die Webapplikation [schuleninkoeln.github.io](https://schuleninkoeln.github.io/) zeigt farblich durch die Anzahl der Schüler unterschiedenen Stadtteile. Ausserdem kann wird die Anzahl der Schüler im Stadtteil angezeigt werden. 
 
 # Talks, Workshops und Hackathons
 
