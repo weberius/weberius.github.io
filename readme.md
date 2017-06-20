@@ -2,9 +2,9 @@
 
 ![Wolfram Eberius](https://avatars2.githubusercontent.com/u/3819073?v=3&s=200 "Wolfram Eberius") | 
 
-- Programmer
+- Fullstack Developer 
 - Open Data Enthusiast
-- Coach/ Mentor
+- Digital Mentor
 - [OK Lab Köln](https://codefor.de/koeln/)
 - [RefugeesOnRails Cologne](http://cologne.refugeesonrails.org/en/)
 
