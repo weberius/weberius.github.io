@@ -2,7 +2,7 @@
 
 ![Wolfram Eberius](https://avatars2.githubusercontent.com/u/3819073?v=3&s=200 "Wolfram Eberius") | 
 
-- Fullstack Developer 
+- Fullstack Sofware Developer 
 - Open Data Enthusiast
 - Digital Mentor
 - [OK Lab Köln](https://codefor.de/koeln/)
