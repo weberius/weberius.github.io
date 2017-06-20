@@ -4,7 +4,7 @@
 
 - Fullstack Sofware Developer 
 - Open Data Enthusiast
-- Digital Mentor
+- Digital Mentoring
 - [OK Lab Köln](https://codefor.de/koeln/)
 - [RefugeesOnRails Cologne](http://cologne.refugeesonrails.org/en/)
 
