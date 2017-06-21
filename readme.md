@@ -13,6 +13,7 @@
 - [twitter](https://twitter.com/eberius)
 - [github](https://github.com/weberius)
 - [Xing](https://www.xing.com/profile/Wolfram_Eberius)
+- [google+](https://plus.google.com/+WolframEberius)
 - [Facebook](https://www.facebook.com/wolfram.eberius)
 - [Flickr](https://www.flickr.com/photos/eberius/)
 
