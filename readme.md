@@ -55,13 +55,3 @@ Das projekt [denkmalinkoeln](https://github.com/denkmalinkoeln/denkmalinkoeln.gi
 
 Ziel des Projektes [schuleninkoeln](https://github.com/schuleninkoeln/schuleninkoeln.github.io) ist es Schulen und Schüler bezogen auf Stadtteile in Köln anzuzeigen. Die Webapplikation [schuleninkoeln.github.io](https://schuleninkoeln.github.io/) zeigt farblich durch die Anzahl der Schüler unterschiedenen Stadtteile. Ausserdem kann wird die Anzahl der Schüler im Stadtteil angezeigt werden. 
 
-# weitere Informationen
-
-- Technischer Ansprechpartner auf dem Workshop "Feinstaub selbst messen"; [radkomm](http://www.radkomm.koeln/), 17.06.2017
-- Präsentation Webapplikation "[PublicDepartCologne](https://github.com/codeforcologne/PublicDepartCologne)"; [geeks@cologne, 24.05.2017](https://geekscologne.wordpress.com/2017/06/09/das-war-open-data/), [youtube](https://www.youtube.com/watch?v=om8lr2ZX6ck)
-- Interviewpartner zu "Potential und die Grenzen von OpenData"; [kölncampus](https://www.koelncampus.com), 23.05.2017
-- Teilnehmer Workshop "Coole Web-Apps mit Spring Boot, Angular 2 und TypeScript", [JAX 2017](https://jax.de/web-development-javascript/freitag-12-05-2017-coole-web-apps-mit-spring-boot-angular-2-und-typescript/), 12.05.2017
-- Mentor bei "[Jugend Hackt; Hello World NRW](https://jugendhackt.org/hello-world/)", [Bielefeld](http://www.bielefelder-jugendring.de/index.php/BielefelderJugendring-Aktuell/jugend-hackt-mit-christina-kampmann.html), 06.05.2017 
-- Teilnehmer "[Hackday Niederrhein 2017](https://storify.com/StadtMoers/hackday-niederrhein-2017/), 17.03. - 19.03.2017, Moers
-- Teilnehmer Hackathon "HackYourCity"; Entwicklung des Prototypen "[PublicDepartCologne](https://github.com/codeforcologne/PublicDepartCologne)"; [HackYourCity Köln](http://www.hackyourcity.de/koeln/) , 04.03./ 05.03.2017
-
