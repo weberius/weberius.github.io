@@ -55,7 +55,7 @@ Das projekt [denkmalinkoeln](https://github.com/denkmalinkoeln/denkmalinkoeln.gi
 
 Ziel des Projektes [schuleninkoeln](https://github.com/schuleninkoeln/schuleninkoeln.github.io) ist es Schulen und Schüler bezogen auf Stadtteile in Köln anzuzeigen. Die Webapplikation [schuleninkoeln.github.io](https://schuleninkoeln.github.io/) zeigt farblich durch die Anzahl der Schüler unterschiedenen Stadtteile. Ausserdem kann wird die Anzahl der Schüler im Stadtteil angezeigt werden. 
 
-# Talks, Workshops und Hackathons
+# weitere Informationen
 
 - Technischer Ansprechpartner auf dem Workshop "Feinstaub selbst messen"; [radkomm](http://www.radkomm.koeln/), 17.06.2017
 - Präsentation Webapplikation "[PublicDepartCologne](https://github.com/codeforcologne/PublicDepartCologne)"; [geeks@cologne, 24.05.2017](https://geekscologne.wordpress.com/2017/06/09/das-war-open-data/), [youtube](https://www.youtube.com/watch?v=om8lr2ZX6ck)
