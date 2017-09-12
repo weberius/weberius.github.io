@@ -2,7 +2,7 @@
 
 ![Wolfram Eberius](https://avatars2.githubusercontent.com/u/3819073?v=3&s=200 "Wolfram Eberius") | 
 
-- Fullstack Sofware Developer 
+- Full Stack Software Developer 
 - Open Data Enthusiast
 - Digital Mentor
 - Civictech Expert
