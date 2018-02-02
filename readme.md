@@ -4,7 +4,7 @@
 
 - Full Stack Software Developer 
 - Open Data Enthusiast
-- Digital Mentor
+- Digitalisierungs Aktivist
 - Civictech Expert
 - [OK Lab Köln](https://codefor.de/koeln/)
 - [RefugeesOnRails Cologne](http://cologne.refugeesonrails.org/en/)
