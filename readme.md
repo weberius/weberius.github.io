@@ -2,10 +2,10 @@
 
 ![Wolfram Eberius](https://avatars2.githubusercontent.com/u/3819073?v=3&s=200 "Wolfram Eberius") | 
 
-- Full Stack Software Developer 
-- Open Data Enthusiast
-- Digitalisierungs Aktivist
-- Civictech Expert
+- full stack software developer
+- open data enthusiast
+- digital activist
+- civictech expert
 - [OK Lab Köln](https://codefor.de/koeln/)
 - [RefugeesOnRails Cologne](http://cologne.refugeesonrails.org/en/)
 - [JugendHackt](https://jugendhackt.org/)
