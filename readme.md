@@ -2,10 +2,9 @@
 
 ![Wolfram Eberius](https://avatars2.githubusercontent.com/u/3819073?v=3&s=200 "Wolfram Eberius") | 
 
-- full stack software developer
-- open data enthusiast
-- digital activist
-- civictech expert
+- software developer
+- focus on opendata and webapi
+- passionate about digital topics
 - [OK Lab Köln](https://codefor.de/koeln/)
 - [RefugeesOnRails Cologne](http://cologne.refugeesonrails.org/en/)
 - [JugendHackt](https://jugendhackt.org/)
@@ -19,7 +18,7 @@
 - [Facebook](https://www.facebook.com/wolfram.eberius)
 - [Flickr](https://www.flickr.com/photos/eberius/)
 
-# Open Source Projekte
+# Open Source/ Open Data Projekte
 
 ## wahlbeteiligung (06.2017 - 09.2017)
 
