@@ -5,6 +5,8 @@
 - software developer
 - focus on opendata and webapi
 - passionate about digital topics
+- working out loud
+- scrum
 - [OK Lab Köln](https://codefor.de/koeln/)
 - [RefugeesOnRails Cologne](http://cologne.refugeesonrails.org/en/)
 - [JugendHackt](https://jugendhackt.org/)
