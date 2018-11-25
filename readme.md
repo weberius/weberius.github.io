@@ -3,10 +3,10 @@
 ![Wolfram Eberius](https://avatars2.githubusercontent.com/u/3819073?v=3&s=200 "Wolfram Eberius") | 
 
 - software developer
-- focus on opendata and webapi
+- scrum master
+- focus on opendata
 - passionate about digital topics
 - working out loud
-- scrum
 - [OK Lab Köln](https://codefor.de/koeln/)
 - [RefugeesOnRails Cologne](http://cologne.refugeesonrails.org/en/)
 - [JugendHackt](https://jugendhackt.org/)
