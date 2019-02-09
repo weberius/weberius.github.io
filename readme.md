@@ -22,6 +22,10 @@
 
 # Open Source/ Open Data Projekte
 
+## publicTransportElevator (01.2019 - ZZ.2019)
+
+Das Projekt [publicTransportElevator](https://github.com/weberius/publicTransportElevator) bietet den Zugriff auf die Aufzüge und die Störungen der Aufzüge im Bereich der KVB. Die Daten basieren auf den Datensätzen Fahrtreppen KVB Köln der Offenen Daten der Stadt Köln. Die Daten werden als json-Daten verwendet und in einer H2Gis persistiert. Die Applikation bietet Schnittstellen zur Abfrage der Daten und eine einfache Weboberfläche zur Anzeige im räumlichen Kontext. Diese Applikation verarbeitet nicht die Daten der Haltestellen in Köln.
+
 ## wahlbeteiligung (06.2017 - 09.2017)
 
 Das Projekt [wahlbeteiligung](https://github.com/weberius/wahlbeteiligung) soll unterschiedliche Wahlbeteiligung in unterschiedlichen geographischen Strukturen veranschaulichen. Es fokussiert sich zunächst auf die Wahlergebnisse im Bereich der Stadt Köln zu den Landtagswahlen.
