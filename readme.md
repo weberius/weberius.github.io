@@ -22,6 +22,10 @@
 
 # Open Source/ Open Data Projekte
 
+## wikidataGeoService (02.2019 - ZZ.2019)
+
+Das Projekt [wikidataGeoService](https://github.com/weberius/wikidataGeoService) habe ich im Rahmen des [wikidata-workshop](https://de.wikipedia.org/wiki/Wikipedia:Wikidata-Workshop-Ulm-2019) im [verschwörhaus](https://verschwoerhaus.de/) begonnen. Ziel ist es auf räumliche Daten in wikidata per Service zuzugreifen. Dabei wird die Abfrage gegen wikidata per Apache Jena gekapselt. Um die Daten ohne weiteres z.B. per leaflet anzeigen zu können, werden die Ergebnisse auf Wunsch per GeoJson ausgeliefert.
+
 ## publicTransportElevator (01.2019 - ZZ.2019)
 
 Das Projekt [publicTransportElevator](https://github.com/weberius/publicTransportElevator) bietet den Zugriff auf die Aufzüge und die Störungen der Aufzüge im Bereich der KVB. Die Daten basieren auf den Datensätzen Fahrtreppen KVB Köln der Offenen Daten der Stadt Köln. Die Daten werden als json-Daten verwendet und in einer H2Gis persistiert. Die Applikation bietet Schnittstellen zur Abfrage der Daten und eine einfache Weboberfläche zur Anzeige im räumlichen Kontext. Diese Applikation verarbeitet nicht die Daten der Haltestellen in Köln.
