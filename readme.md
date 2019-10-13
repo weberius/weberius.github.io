@@ -8,9 +8,8 @@
 - passionate about digital topics
 - working out loud
 - [OK Lab Köln](https://codefor.de/koeln/)
+- [Offene Kommunen.NRW](https://oknrw.de/)
 - [D64 Zentrum für digitalen Fortschritt](https://d-64.org/)
-- [JugendHackt](https://jugendhackt.org/)
-- [RefugeesOnRails Cologne](http://cologne.refugeesonrails.org/en/)
 
 # Links
 
