@@ -8,7 +8,6 @@
 - passionate about digital topics
 - working out loud
 - [OK Lab Köln](https://codefor.de/koeln/)
-- [Offene Kommunen.NRW](https://oknrw.de/)
 - [D64 Zentrum für digitalen Fortschritt](https://d-64.org/)
 
 # Links
@@ -16,7 +15,6 @@
 - [twitter](https://twitter.com/eberius)
 - [github](https://github.com/weberius)
 - [Xing](https://www.xing.com/profile/Wolfram_Eberius)
-- [google+](https://plus.google.com/+WolframEberius)
 - [Facebook](https://www.facebook.com/wolfram.eberius)
 - [Flickr](https://www.flickr.com/photos/eberius/)
 
