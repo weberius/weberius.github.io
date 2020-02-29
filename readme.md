@@ -5,8 +5,8 @@
 - software developer
 - scrum master
 - focus on opendata
+- magically attracted to blockchain
 - passionate about digital topics
-- working out loud
 - [OK Lab Köln](https://codefor.de/koeln/)
 - [D64 Zentrum für digitalen Fortschritt](https://d-64.org/)
 
