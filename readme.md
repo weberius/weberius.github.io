@@ -3,7 +3,6 @@
 ![Wolfram Eberius](https://avatars2.githubusercontent.com/u/3819073?v=3&s=200 "Wolfram Eberius") | 
 
 - software developer
-- scrum master
 - focus on opendata
 - magically attracted to blockchain
 - passionate about digital topics
