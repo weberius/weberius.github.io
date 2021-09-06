@@ -7,7 +7,6 @@
 - magically attracted to blockchain
 - passionate about digital topics
 - [OK Lab Köln](https://codefor.de/koeln/)
-- [D64 Zentrum für digitalen Fortschritt](https://d-64.org/)
 
 # Links
 
