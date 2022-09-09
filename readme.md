@@ -3,20 +3,24 @@
 ![Wolfram Eberius](https://avatars2.githubusercontent.com/u/3819073?v=3&s=200 "Wolfram Eberius") | 
 
 - software developer
+- photographer
 - focus on opendata
-- magically attracted to blockchain
 - passionate about digital topics
-- [OK Lab Köln](https://codefor.de/koeln/)
 
 # Links
 
 - [twitter](https://twitter.com/eberius)
 - [github](https://github.com/weberius)
 - [Xing](https://www.xing.com/profile/Wolfram_Eberius)
-- [Facebook](https://www.facebook.com/wolfram.eberius)
-- [Flickr](https://www.flickr.com/photos/eberius/)
+- [OK Lab Köln](https://codefor.de/koeln/)
+- [Photoresk International](https://photoresk.com)
+- [Instagram](https://www.instagram.com/illillillilli)
 
 # Open Source/ Open Data Projekte
+
+## kulturpfadeService (02.2022 - ZZ.2022)
+
+Der [KulturpfadeService](https://github.com/weberius/kulturpfadservice) bietet die Möglichkeit, aus einer Liste an Orten eine Fussgänger-Route zwischen diesen Orten zu erstellen. Hierfür wird ein Dokument mit Orten übergeben. Anhand der Adressen werden die notwendigen x/y-Koordinaten erstellt. Mit Hilfe der Routing-Software Graphhopper wird hieraus eine Route erstellt, die in Form von geojson-Objekten zur Verfügung gestellt werden. Die Orte enhalten eine eindeutige ID, die es ermöglicht, weitergehende Informationen mit dem Ort zu verknüpfen. Die Software ist als Service gedacht, die es erlaubt, die notwendigen Daten für die Bereitstellung einer Oberfläche ohne Backend zu generieren. Der Service soll eine einfache Weboberfläche enthalten, um das Ergebnis einfach kontrollieren zu können.
 
 ## wikidataGeoService (02.2019 - ZZ.2019)
 
