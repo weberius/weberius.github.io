@@ -18,7 +18,11 @@
 
 # Open Source/ Open Data Projekte
 
-## kulturpfadeService (02.2022 - ZZ.2022)
+## kulturpfade (02.2022 - 2024)
+
+Die [Kulturpfade]([https://github.com/weberius/kulturpfadservice](https://github.com/codeforcologne/kulturpfade)) sind eine Weboberfläche, um Informationen aus den Kölner Kultupfade in einer Webapplikation anzuzeigen. 
+
+## kulturpfadeService (02.2022 - 2024)
 
 Der [KulturpfadeService](https://github.com/weberius/kulturpfadservice) bietet die Möglichkeit, aus einer Liste an Orten eine Fussgänger-Route zwischen diesen Orten zu erstellen. Hierfür wird ein Dokument mit Orten übergeben. Anhand der Adressen werden die notwendigen x/y-Koordinaten erstellt. Mit Hilfe der Routing-Software Graphhopper wird hieraus eine Route erstellt, die in Form von geojson-Objekten zur Verfügung gestellt werden. Die Orte enhalten eine eindeutige ID, die es ermöglicht, weitergehende Informationen mit dem Ort zu verknüpfen. Die Software ist als Service gedacht, die es erlaubt, die notwendigen Daten für die Bereitstellung einer Oberfläche ohne Backend zu generieren. Der Service soll eine einfache Weboberfläche enthalten, um das Ergebnis einfach kontrollieren zu können.
 
