@@ -9,12 +9,13 @@
 
 # Links
 
-- [twitter](https://twitter.com/eberius)
 - [github](https://github.com/weberius)
-- [Xing](https://www.xing.com/profile/Wolfram_Eberius)
 - [OK Lab Köln](https://codefor.de/koeln/)
 - [Photoresk International](https://photoresk.com)
+- [eberius.photography](https://wolfram.eberius.photography/)
+- [linkedIn](https://www.linkedin.com/in/weberius/)
 - [Instagram](https://www.instagram.com/illillillilli)
+- [twitter](https://twitter.com/eberius)
 
 # Open Source/ Open Data Projekte
 
