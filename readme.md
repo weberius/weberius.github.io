@@ -20,7 +20,7 @@
 
 ## kulturpfade (02.2022 - 2024)
 
-Die [Kulturpfade]([https://github.com/weberius/kulturpfadservice](https://github.com/codeforcologne/kulturpfade)) sind eine Weboberfläche, um Informationen aus den Kölner Kultupfade in einer Webapplikation anzuzeigen. 
+Die [Kulturpfade](https://github.com/codeforcologne/kulturpfade) sind eine Weboberfläche, um Informationen aus den Kölner Kultupfade in einer Webapplikation anzuzeigen. 
 
 ## kulturpfadeService (02.2022 - 2024)
 
