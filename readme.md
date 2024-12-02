@@ -11,8 +11,9 @@
 
 - [github](https://github.com/weberius)
 - [OK Lab Köln](https://codefor.de/koeln/)
+- [Softwerkskammer Köln](https://softwerkskammer.de/groups/cologne)
 - [Photoresk International](https://photoresk.com)
-- [eberius.photography](https://wolfram.eberius.photography/)
+- [wolfram.eberius.photography](https://wolfram.eberius.photography/)
 - [linkedIn](https://www.linkedin.com/in/weberius/)
 - [Instagram](https://www.instagram.com/illillillilli)
 - [twitter](https://twitter.com/eberius)
